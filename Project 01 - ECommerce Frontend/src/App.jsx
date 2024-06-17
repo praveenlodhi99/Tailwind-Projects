@@ -6,10 +6,10 @@ import {
   Services,
   SpecialOffer,
   Subscribe,
-  SuperQuality
-} from './sections';
+  SuperQuality,
+} from "./sections";
 
-import Nav from './components/Nav';
+import Nav from "./components/Nav";
 
 const App = () => {
   return (
